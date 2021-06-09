@@ -1,0 +1,10 @@
+{
+    "shell-version": ["3.26", "3.28", "3.30", "3.32", "3.34", "3.36", "40"],
+    "uuid": "gnome-shell-system-monitor@dingjing@live.cn",
+    "name": "gnome-shell-system-monitor",
+    "url": "https://github.com/dingjingmaster/gnome-shell-monitor",
+    "description": "Display system information in GNOME Shell status bar",
+    "settings-schema":  "org.gnome.shell.extensions.dingjing-system-monitor",
+    "gettext-domain": "dingjing-system-monitor",
+    "version": -1
+}
